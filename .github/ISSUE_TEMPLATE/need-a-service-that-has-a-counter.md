@@ -1,9 +1,9 @@
 ---
-name: user story
+name: need a service that has a counter
 about: user story
 title: ''
 labels: ''
-assignees: ''
+assignees: klood333
 
 ---
 
